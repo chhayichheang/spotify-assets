@@ -2,51 +2,52 @@
     {
         "id": 1,
         "name": "Olivia Rodrigo",
-        "image": "https://raw.githubusercontent.com/chhayichheang/spotify-assets/main/artist_olivia_rodrigo.jpeg"
+        "image": "/Users/chhayi/Desktop/Artists/artist_olivia_rodrigo.jpeg"
     },
+
     {
         "id": 2,
         "name": "One Direction",
-        "image": "https://raw.githubusercontent.com/chhayichheang/spotify-assets/main/artist_one_direction.jpeg"
+        "image": "/Users/chhayi/Desktop/Artists/artist_one_direction.jpeg"
     },
     {
         "id": 3,
         "name": "Rihanna",
-        "image": "https://raw.githubusercontent.com/chhayichheang/spotify-assets/main/artist_rihanna.jpeg"
+        "image": "/Users/chhayi/Desktop/Artists/artist_rihanna.jpeg"
     },
     {
         "id": 4,
         "name": "Ed Sheeran",
-        "image": "https://raw.githubusercontent.com/chhayichheang/spotify-assets/main/artist_ed_sheeran.jpeg"
+        "image": "/Users/chhayi/Desktop/Artists/artist_ed_sheeran.jpeg"
     },
     {
         "id": 5,
         "name": "Billie Eilish",
-        "image": "https://raw.githubusercontent.com/chhayichheang/spotify-assets/main/artist_billie_eilish.jpeg"
+        "image": "/Users/chhayi/Desktop/Artists/artist_billie_eilish.jpeg"
     },
     {
         "id": 6,
         "name": "Harry Styles",
-        "image": "https://raw.githubusercontent.com/chhayichheang/spotify-assets/main/artist_harry_styles.jpeg"
+        "image": "/Users/chhayi/Desktop/Artists/artist_harry_styles.jpeg"
     },
     {
         "id": 7,
         "name": "Dua Lipa",
-        "image": "https://raw.githubusercontent.com/chhayichheang/spotify-assets/main/artist_dua_lipa.jpeg"
+        "image": "/Users/chhayi/Desktop/Artists/artist_dua_lipa.jpeg"
     },
     {
         "id": 8,
         "name": "The Weeknd",
-        "image": "https://raw.githubusercontent.com/chhayichheang/spotify-assets/main/artist_the_weeknd.jpeg"
+        "image": "/Users/chhayi/Desktop/Artists/artist_the_weeknd.jpeg"
     },
     {
         "id": 9,
         "name": "Ariana Grande",
-        "image": "https://raw.githubusercontent.com/chhayichheang/spotify-assets/main/artist_ariana_grande.jpeg"
+        "image": "/Users/chhayi/Desktop/Artists/artist_ariana_grande.jpeg"
     },
     {
         "id": 10,
         "name": "Lana Del Rey",
-        "image": "https://raw.githubusercontent.com/chhayichheang/spotify-assets/main/artist_lana_del_rey.jpeg"
+        "image": "/Users/chhayi/Desktop/Artists/artist_lana_del_rey.jpeg"
     }
 ]
